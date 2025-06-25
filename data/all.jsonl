@@ -1,0 +1,101 @@
+{"prompt": "What is AWS EC2?", "completion": "AWS EC2 is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS EC2 used?", "completion": "In Cyber Fortress, AWS EC2 is used to ... (practical use case)."}
+{"prompt": "What is AWS S3?", "completion": "AWS S3 is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS S3 used?", "completion": "In Cyber Fortress, AWS S3 is used to ... (practical use case)."}
+{"prompt": "What is AWS RDS?", "completion": "AWS RDS is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS RDS used?", "completion": "In Cyber Fortress, AWS RDS is used to ... (practical use case)."}
+{"prompt": "What is AWS Lambda?", "completion": "AWS Lambda is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS Lambda used?", "completion": "In Cyber Fortress, AWS Lambda is used to ... (practical use case)."}
+{"prompt": "What is AWS DynamoDB?", "completion": "AWS DynamoDB is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS DynamoDB used?", "completion": "In Cyber Fortress, AWS DynamoDB is used to ... (practical use case)."}
+{"prompt": "What is AWS VPC?", "completion": "AWS VPC is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS VPC used?", "completion": "In Cyber Fortress, AWS VPC is used to ... (practical use case)."}
+{"prompt": "What is AWS CloudWatch?", "completion": "AWS CloudWatch is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS CloudWatch used?", "completion": "In Cyber Fortress, AWS CloudWatch is used to ... (practical use case)."}
+{"prompt": "What is AWS IAM?", "completion": "AWS IAM is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS IAM used?", "completion": "In Cyber Fortress, AWS IAM is used to ... (practical use case)."}
+{"prompt": "What is AWS CloudTrail?", "completion": "AWS CloudTrail is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS CloudTrail used?", "completion": "In Cyber Fortress, AWS CloudTrail is used to ... (practical use case)."}
+{"prompt": "What is AWS ELB?", "completion": "AWS ELB is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS ELB used?", "completion": "In Cyber Fortress, AWS ELB is used to ... (practical use case)."}
+{"prompt": "What is AWS Route 53?", "completion": "AWS Route 53 is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS Route 53 used?", "completion": "In Cyber Fortress, AWS Route 53 is used to ... (practical use case)."}
+{"prompt": "What is AWS CloudFront?", "completion": "AWS CloudFront is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS CloudFront used?", "completion": "In Cyber Fortress, AWS CloudFront is used to ... (practical use case)."}
+{"prompt": "What is AWS EKS?", "completion": "AWS EKS is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS EKS used?", "completion": "In Cyber Fortress, AWS EKS is used to ... (practical use case)."}
+{"prompt": "What is AWS ECS?", "completion": "AWS ECS is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS ECS used?", "completion": "In Cyber Fortress, AWS ECS is used to ... (practical use case)."}
+{"prompt": "What is AWS EBS?", "completion": "AWS EBS is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS EBS used?", "completion": "In Cyber Fortress, AWS EBS is used to ... (practical use case)."}
+{"prompt": "What is AWS KMS?", "completion": "AWS KMS is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS KMS used?", "completion": "In Cyber Fortress, AWS KMS is used to ... (practical use case)."}
+{"prompt": "What is AWS SNS?", "completion": "AWS SNS is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS SNS used?", "completion": "In Cyber Fortress, AWS SNS is used to ... (practical use case)."}
+{"prompt": "What is AWS SQS?", "completion": "AWS SQS is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS SQS used?", "completion": "In Cyber Fortress, AWS SQS is used to ... (practical use case)."}
+{"prompt": "What is AWS Glue?", "completion": "AWS Glue is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS Glue used?", "completion": "In Cyber Fortress, AWS Glue is used to ... (practical use case)."}
+{"prompt": "What is AWS Redshift?", "completion": "AWS Redshift is a service that ... (concise definition)."}
+{"prompt": "In a Cyber Fortress exercise, how is AWS Redshift used?", "completion": "In Cyber Fortress, AWS Redshift is used to ... (practical use case)."}
+{"prompt": "What is Encryption at Rest?", "completion": "Encryption at Rest refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Encryption at Rest implemented?", "completion": "In Cyber Fortress, Encryption at Rest is implemented by ... (practical implementation)."}
+{"prompt": "What is Encryption in Transit?", "completion": "Encryption in Transit refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Encryption in Transit implemented?", "completion": "In Cyber Fortress, Encryption in Transit is implemented by ... (practical implementation)."}
+{"prompt": "What is Network Segmentation?", "completion": "Network Segmentation refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Network Segmentation implemented?", "completion": "In Cyber Fortress, Network Segmentation is implemented by ... (practical implementation)."}
+{"prompt": "What is Intrusion Detection?", "completion": "Intrusion Detection refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Intrusion Detection implemented?", "completion": "In Cyber Fortress, Intrusion Detection is implemented by ... (practical implementation)."}
+{"prompt": "What is Identity Federation?", "completion": "Identity Federation refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Identity Federation implemented?", "completion": "In Cyber Fortress, Identity Federation is implemented by ... (practical implementation)."}
+{"prompt": "What is Firewall Rules?", "completion": "Firewall Rules refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Firewall Rules implemented?", "completion": "In Cyber Fortress, Firewall Rules is implemented by ... (practical implementation)."}
+{"prompt": "What is SIEM?", "completion": "SIEM refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is SIEM implemented?", "completion": "In Cyber Fortress, SIEM is implemented by ... (practical implementation)."}
+{"prompt": "What is Incident Response Plans?", "completion": "Incident Response Plans refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Incident Response Plans implemented?", "completion": "In Cyber Fortress, Incident Response Plans is implemented by ... (practical implementation)."}
+{"prompt": "What is Penetration Testing?", "completion": "Penetration Testing refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Penetration Testing implemented?", "completion": "In Cyber Fortress, Penetration Testing is implemented by ... (practical implementation)."}
+{"prompt": "What is Vulnerability Scanning?", "completion": "Vulnerability Scanning refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Vulnerability Scanning implemented?", "completion": "In Cyber Fortress, Vulnerability Scanning is implemented by ... (practical implementation)."}
+{"prompt": "What is Least Privilege Principle?", "completion": "Least Privilege Principle refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Least Privilege Principle implemented?", "completion": "In Cyber Fortress, Least Privilege Principle is implemented by ... (practical implementation)."}
+{"prompt": "What is Multifactor Authentication?", "completion": "Multifactor Authentication refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Multifactor Authentication implemented?", "completion": "In Cyber Fortress, Multifactor Authentication is implemented by ... (practical implementation)."}
+{"prompt": "What is Security Groups?", "completion": "Security Groups refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Security Groups implemented?", "completion": "In Cyber Fortress, Security Groups is implemented by ... (practical implementation)."}
+{"prompt": "What is NACLs?", "completion": "NACLs refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is NACLs implemented?", "completion": "In Cyber Fortress, NACLs is implemented by ... (practical implementation)."}
+{"prompt": "What is DDOS Mitigation?", "completion": "DDOS Mitigation refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is DDOS Mitigation implemented?", "completion": "In Cyber Fortress, DDOS Mitigation is implemented by ... (practical implementation)."}
+{"prompt": "What is WAF?", "completion": "WAF refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is WAF implemented?", "completion": "In Cyber Fortress, WAF is implemented by ... (practical implementation)."}
+{"prompt": "What is Secure AMIs?", "completion": "Secure AMIs refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Secure AMIs implemented?", "completion": "In Cyber Fortress, Secure AMIs is implemented by ... (practical implementation)."}
+{"prompt": "What is Key Rotation?", "completion": "Key Rotation refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Key Rotation implemented?", "completion": "In Cyber Fortress, Key Rotation is implemented by ... (practical implementation)."}
+{"prompt": "What is Audit Logging?", "completion": "Audit Logging refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Audit Logging implemented?", "completion": "In Cyber Fortress, Audit Logging is implemented by ... (practical implementation)."}
+{"prompt": "What is Compliance Monitoring?", "completion": "Compliance Monitoring refers to ... (concise security concept)."}
+{"prompt": "In Cyber Fortress, how is Compliance Monitoring implemented?", "completion": "In Cyber Fortress, Compliance Monitoring is implemented by ... (practical implementation)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #1", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #1)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #2", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #2)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #3", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #3)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #4", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #4)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #5", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #5)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #6", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #6)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #7", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #7)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #8", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #8)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #9", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #9)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #10", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #10)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #11", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #11)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #12", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #12)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #13", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #13)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #14", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #14)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #15", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #15)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #16", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #16)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #17", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #17)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #18", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #18)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #19", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #19)."}
+{"prompt": "Explain the role of AWS in Cybersecurity #20", "completion": "AWS plays a role in cybersecurity by ... (brief explanation #20)."}
+
